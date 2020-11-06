@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Listing04.24choices.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Listing04.23mixtypes.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
